@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 
 ubuntu
+ubuntu:22.04
